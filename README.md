@@ -6,14 +6,11 @@ Task 3: Writing Basic SELECT Queries (Library Management)
 Practice extracting data using `SELECT`, `WHERE`, `ORDER BY`, and `LIMIT`.
 
 ## Tools
-- MySQL Workbench / DB Browser for SQLite
 - VS Code for managing scripts
 
 ## Files
-- `schema.sql` → Table creation
-- `insert_data.sql` → Sample data
 - `select_queries.sql` → Practice queries
-- `screenshots/` → Results screenshots (optional)
+- README.md → Add expalantion + Interview Q & A
 
 ## Queries Covered
 1. `SELECT *` → All columns  
